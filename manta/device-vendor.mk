@@ -25,12 +25,8 @@ PRODUCT_PACKAGES := \
     libclcoreArm \
     libclcore_neonArm \
     libdrmdecrypt \
-    libdrmwvmplugin \
     libGLES_mali \
     libRSDriverArm \
-    libwvdrm_L1 \
-    libwvm \
-    libWVStreamControlAPI_L1 \
     maxtouch \
     mfc_fw \
     setfile \
